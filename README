@@ -11,7 +11,7 @@ Requirements
 
 Notes
 -----
-This code is based on http://goo.gl/cxY5 with one small additions:
+This code is based on http://goo.gl/cxY5 with one small addition:
 
 * Added a third datastream to the Pachube feed to log timestamps separately
 
